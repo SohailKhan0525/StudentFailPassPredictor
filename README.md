@@ -5,6 +5,8 @@ This is a **machine learning-powered web application** built with Streamlit that
 
 The application uses a trained machine learning model to analyze student characteristics and provide prediction probabilities for pass/fail outcomes.
 
+##USe App
+[Streamlit app](https://studentfailpasspredictor-hjymwbpsp4bksec9ycb2xz.streamlit.app/)
 ## Features
 - 🎯 **Interactive UI** - Easy-to-use Streamlit interface
 - 📊 **ML-Based Predictions** - Scikit-learn model for classification
